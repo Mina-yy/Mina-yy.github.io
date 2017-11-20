@@ -1,4 +1,8 @@
-# 人类如何做决策
+---
+title: 人类如何做决策
+date: 2017-11-20 20:58:52
+---
+
 
 To be or not to be? That is the question.
 
