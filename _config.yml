@@ -2,21 +2,24 @@
 title:            "菟葵"
 description:      "Such theme, very cool."
 url:              http://tukui.me # Site url, without a slash at the end.
-signoff:          "tukui" # Your name
+signoff:          "菟葵" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set trackins, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         blogs
     url:          /
     external:     false
   - name:         About me
     url:          /about
     external:     false
+    
+    
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
+# permalink:        /posts/:title
+permalink: /:categories/:title
 defaults:
   - values:
       layout: "default"
