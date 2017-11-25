@@ -1,6 +1,6 @@
 ---
 title: 你一生的脚本
-date: 2016-06-21 
+date: 2017-06-21 
 category: mynote
 tags: 读书笔记
 

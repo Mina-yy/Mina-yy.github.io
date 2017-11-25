@@ -1,6 +1,8 @@
 <p class="mt4">
   〰️ {{ site.signoff }}   〰️
   <br>
+  <span class="silver">{{ page.content | strip_html | strip_newlines | remove: " " | size }} words</span>
+  <br>
   <span class="silver">{{ page.date | date_to_string }}</span> 💋
 </p>
 
