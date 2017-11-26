@@ -1,6 +1,6 @@
 ---
 title: 理性
-date: 2017-11-14
+date: 2017-11-18
 category: mynote
 tags: 读书笔记,心智
 
