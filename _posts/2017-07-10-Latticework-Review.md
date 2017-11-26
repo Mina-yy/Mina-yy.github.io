@@ -2,7 +2,7 @@
 title: 智慧的人如何思考
 date: 2017-07-10 
 category: mynote
-tags: 读书笔记
+tags: 读书笔记,心智
 
 ---
 
